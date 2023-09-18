@@ -1,6 +1,7 @@
 # WizardGame
 Made with python using pygame
 
+
 Controls:
 WASD - movement
 Mouse - aim staff
